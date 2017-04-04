@@ -1,0 +1,163 @@
+body{
+	
+	
+}
+#icerik{
+	width:960px;
+	margin:0 auto;
+	
+}
+#header{
+	width:960px;
+	height:120px;
+	background-color:#ff6600;
+	float:left;
+}
+#logo{
+	width:417px;
+	height:102px;
+	margin-left:272px;
+	float:left;
+}
+#menu{
+	width:960px;
+	height:45px;
+	background-color:#006699;
+	float:left;
+}
+#menuUlSecenek{
+margin-top:0px;
+padding-left:0px;
+}
+.menuSecenek{
+list-style-type:none;
+float:left;
+color:white;
+padding-left:10px;
+}
+.menuResimButon{
+	max-width:60px;
+	height:45px;
+	float:left;
+	padding-left:6px;
+}
+#entry{
+	width:230px;
+	height:40px;
+	text-align: center;
+	background-color:#006699;
+	margin:5px 5px 0px 5px;
+	float:left;
+}	
+.entrance{
+	width:85px;
+	height:30px;
+	color:#000000;
+	background-color:#ffffff;
+	margin:5px 5px 0px 5px;
+	float:left;
+}
+#map{
+	width:720px;
+	height:630px;
+	float:left;
+}
+#information{
+	width:240px;
+	height:630px;
+	background-color:#e8760c;
+	float:left;
+}
+#info{
+	width:230px;
+	height:30px;
+	text-align: center;
+	background-color:#006699;
+	margin:5px 5px 0px 5px;
+	float:left;
+}	
+.search{
+	width:230px;
+	height:30px;
+	color:#000000;
+	background-color:#ffffff;
+	//*margin:5px 5px 0px 5px;*/
+	float:left;
+}
+#nation{
+	width:35px;
+	height:30px;
+}
+#photograph{
+	width:230px;
+	height:144px;
+	margin:5px 5px 0px 5px;
+	float:left;
+}
+#photo{
+	width:230px;
+	height:144px;
+}
+.aciklama{
+	font-family: Myriad Pro;
+	font-size:18px;
+	color:#ffffff;
+	padding:5px 5px 0px 10px;
+}
+#alarm{
+	width:230px;
+	height:120px;
+	background-color:#ff0000;
+	text-align: center;
+	margin:0px 5px 0px 5px;
+	float:left;
+}	
+#warning{
+	width:230px;
+	height:30px;
+	background-color:#cc0000;
+	margin:0px 5px 0px 0px;
+	float:left;
+}
+#table{
+	width:960px;
+	height:150px;
+	color:#ffffff;
+	text-align: center;
+	background-color:#006699;
+	margin:0px 5px 0px 0px;
+	float:left;
+}
+#footer{
+	width:960px;
+	height:55px;
+	background-color:#ff6600;
+	float:left;
+}
+#footerUlSecenek{
+margin-top:15px;
+padding-left:0px;
+}	
+.footerSecenek{
+list-style-type:none;
+float:left;
+color:white;
+padding-left:15px;
+font-size:23px;
+}
+@media only screen and (max-width:1240px) and (min-width:720px){
+    img{width:50%;height:auto} 
+    #table{
+	width:960px;
+	height:150px;
+	color:#ffffff;
+	text-align: center;
+	background-color:#006699;
+	margin:0px 5px 0px 0px;
+	float:left;} 
+    #form-group{
+	width:80px;
+	height:60px;
+	float:left;}
+
+}
