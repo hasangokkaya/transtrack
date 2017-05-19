@@ -41,6 +41,10 @@ padding-left:10px;
 	float:left;
 	padding-left:6px;
 }
+.menuResimButon:hover{
+	transform: scale(1.2);
+}
+
 #entry{
 	width:230px;
 	height:40px;
